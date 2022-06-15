@@ -1,0 +1,43 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.cajaborde {
+    width: 500px;
+    height: 500px;
+    background-color: #f5bfd0;
+    padding: 10px;
+    margin: 30px;
+    border: 10px #ff4fbc outset;
+    background-image: url(/images/pink\ panter.png);
+    background-size: 490px;
+    background-position-y: -30px;
+}
+h4{
+    color: aliceblue;
+}
+h1{
+    font-family: 'Rubik Moonrocks';
+    font-size: 7rem;
+    
+}
+.cajasimpson{
+    width: 500px;
+    height: 500px;
+    background-color: hsl(60, 100%, 73%);
+    padding: 20px;
+    margin: 30px;
+    border: 5px blue dotted;
+    background-image: url(/images/lisa\ bebe.png);
+    background-repeat: no-repeat ;
+    background-size: 473px;
+    background-position: center;
+}
+h5{
+    color: black;
+    font-family: 'Gloria Hallelujah';
+    font-size: 2rem;
+}
